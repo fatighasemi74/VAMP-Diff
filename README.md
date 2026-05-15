@@ -15,7 +15,7 @@
 Fatemeh Ghasemi Balouei, Nathan Willemsen, Mahesh Banavar, Bahman Moraffah  
 *Asilomar Conference on Signals, Systems, and Computers 2026*
 
-📥 [Download Full Paper (PDF)](./VAMP-Diff.pdf)
+📥 [Download Full Paper (PDF)](./VAMP_Diff__VampPrior_Latent_Diffusion_for_Photoplethysmography_Modeling.pdf)
 
 ---
 
