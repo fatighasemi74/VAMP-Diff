@@ -104,15 +104,13 @@ All hyperparameters live in `configs/default.py`. Key settings:
 | `PRED_TARGET` | `x0` | Diffusion prediction target |
 | `DDIM_STEPS` | 50 | Denoising steps at inference |
 
-## Citation
-
-If you use this code, please cite:
+## 📝 Citation
 
 ```bibtex
-@article{VAMP_Diff__VampPrior_Latent_Diffusion_for_Photoplethysmography_Modeling,
-  title   = {VAMP-Diff: VampPrior Latent Diffusion for Photoplethysmography Modeling},
-  author  = {Fatemeh Ghasemi Balouei, Nathan Willemsen, Mahesh Banavar, Bahman Moraffah},
-  conference = {Asilomar Conference 2026},
-  year    = {2026},
+@inproceedings{ghasemibalouei2026vampdiff,
+  title     = {VAMP-Diff: VampPrior Latent Diffusion for Photoplethysmography Modeling},
+  author    = {Ghasemi Balouei, Fatemeh and Willemsen, Nathan and Banavar, Mahesh and Moraffah, Bahman},
+  booktitle = {Asilomar Conference on Signals, Systems, and Computers},
+  year      = {2026}
 }
 ```
